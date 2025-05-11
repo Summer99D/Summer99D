@@ -17,7 +17,7 @@ my email: samarneg@uchicago.edu AND samardara1401@gmail.com
 
 ### For Recruiters: 
 
-please redirect to [Code Samples](https://github.com/Summer99D/Code-Samples) repository for mini samples of all the projects I have done. 
+please redirect to [Code Samples](https://github.com/Summer99D/code_samples/tree/main) repository for mini samples of all the projects I have done. 
 
 To see the complete set of projects I have done in School refer to [Academic Projects](https://github.com/Summer99D/academic-projects)
 <!---
