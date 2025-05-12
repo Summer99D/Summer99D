@@ -2,7 +2,7 @@
 ![opening](https://github.com/user-attachments/assets/382c4664-b9cb-4569-8f66-1525eb4ec934)
 
 
-- 👋 Hi, I’m Samar, but I got by the name Summer as well!
+- 👋 Hi, I’m Samar, but I go by the name Summer as well!
 - I am a master's student at University of Chicago, studying Public Policy and specializing data analytics. 
 - 👀 I’m interested in drawing data-backed conclusions, simplify facts and figures and visualize them!
 - My favorite thing in the world is to help people and I believe helping is much more accurate done with data analysis.
