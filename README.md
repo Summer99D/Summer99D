@@ -7,7 +7,7 @@
 - 👀 I’m interested in drawing data-backed conclusions, simplify facts and figures and visualize them!
 - My favorite thing in the world is to help people and I believe helping is much more accurate done with data analysis.
   
-- 🌱 I have currently mastered machine learning and data analysis in Python and R and am currently focusing on HPC, AWS specificly. 
+- 🌱 I have currently mastered machine learning and data analysis in Python and R and am currently focusing on HPC, especially AWS. 
 - 💞️ I’m looking to collaborate on data science projects, data visualizations and research projects. 
 - 📫 How to reach me:
 my email: samarneg@uchicago.edu AND samardara1401@gmail.com
